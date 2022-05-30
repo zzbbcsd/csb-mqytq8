@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://zzbbcsd.github.io/csb-mqytq8/static/css/main.bcee5f0a.chunk.css",
+    "main.js": "https://zzbbcsd.github.io/csb-mqytq8/static/js/main.5021fc00.chunk.js",
+    "main.js.map": "https://zzbbcsd.github.io/csb-mqytq8/static/js/main.5021fc00.chunk.js.map",
+    "runtime-main.js": "https://zzbbcsd.github.io/csb-mqytq8/static/js/runtime-main.053d2998.js",
+    "runtime-main.js.map": "https://zzbbcsd.github.io/csb-mqytq8/static/js/runtime-main.053d2998.js.map",
+    "static/js/2.8e2b863d.chunk.js": "https://zzbbcsd.github.io/csb-mqytq8/static/js/2.8e2b863d.chunk.js",
+    "static/js/2.8e2b863d.chunk.js.map": "https://zzbbcsd.github.io/csb-mqytq8/static/js/2.8e2b863d.chunk.js.map",
+    "index.html": "https://zzbbcsd.github.io/csb-mqytq8/index.html",
+    "static/css/main.bcee5f0a.chunk.css.map": "https://zzbbcsd.github.io/csb-mqytq8/static/css/main.bcee5f0a.chunk.css.map",
+    "static/js/2.8e2b863d.chunk.js.LICENSE.txt": "https://zzbbcsd.github.io/csb-mqytq8/static/js/2.8e2b863d.chunk.js.LICENSE.txt",
+    "static/media/styles2.scss": "https://zzbbcsd.github.io/csb-mqytq8/static/media/image.126325c7.jpg",
+    "static/media/bilibili.e2a9ed68.png": "https://zzbbcsd.github.io/csb-mqytq8/static/media/bilibili.e2a9ed68.png",
+    "static/media/download.02e0cf82.png": "https://zzbbcsd.github.io/csb-mqytq8/static/media/download.02e0cf82.png",
+    "static/media/ikeAvatar.e77d3fc0.jpg": "https://zzbbcsd.github.io/csb-mqytq8/static/media/ikeAvatar.e77d3fc0.jpg",
+    "static/media/ikeprofile.1fa49b33.png": "https://zzbbcsd.github.io/csb-mqytq8/static/media/ikeprofile.1fa49b33.png",
+    "static/media/nijisanji.e8f7698e.jpg": "https://zzbbcsd.github.io/csb-mqytq8/static/media/nijisanji.e8f7698e.jpg",
+    "static/media/twitter.7a3a4bd6.jpg": "https://zzbbcsd.github.io/csb-mqytq8/static/media/twitter.7a3a4bd6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.053d2998.js",
+    "static/js/2.8e2b863d.chunk.js",
+    "static/css/main.bcee5f0a.chunk.css",
+    "static/js/main.5021fc00.chunk.js"
+  ]
+}
